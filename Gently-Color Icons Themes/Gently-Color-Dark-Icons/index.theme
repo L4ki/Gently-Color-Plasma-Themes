@@ -7,7 +7,7 @@ Comment[en_GB]=Gently-Color-Dark-Icons
 
 DisplayDepth=32
 
-Inherits=breeze,hicolor
+Inherits=breeze-dark,hicolor
 
 Example=folder
 
