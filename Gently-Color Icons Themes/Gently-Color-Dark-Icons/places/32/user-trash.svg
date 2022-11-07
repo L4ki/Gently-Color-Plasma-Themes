@@ -16,7 +16,10 @@
    xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { color:#2a7fff; }
+     type="text/css">
+.ColorScheme-Highlight { 
+    color:#5e81ac;
+}
 </style>
   <metadata
      id="metadata73">
@@ -39,7 +42,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1004"
      id="namedview71"
      showgrid="true"
      inkscape:zoom="13.876971"
