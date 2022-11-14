@@ -17,3 +17,16 @@ Screenshots:
 ![Screenshot_20221106_092232](https://user-images.githubusercontent.com/45247573/200540317-9ab43a14-47b1-41e7-b4f4-5ea766316cb6.png)
 
 ![Screenshot_20221106_115108](https://user-images.githubusercontent.com/45247573/200540360-5a080e00-5a7e-4994-ab4d-30b2e0883657.png)
+
+Changelog: 14.11.2022.
+----------------------
+
+Icons
+-----
+Update icons: preferences, apps
+
+Plasma Theme
+------------
+
+Added icons:  thunderbird.svg, face.svg
+
