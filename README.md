@@ -30,3 +30,15 @@ Plasma Theme
 
 Added icons:  thunderbird.svg, face.svg
 
+Changelog: 21.11.2022.
+----------------------
+
+Icons
+-----
+Added new icons: apps
+
+Plasma Theme
+------------
+
+Added icons: knotes.svg, sirikali.svg
+
