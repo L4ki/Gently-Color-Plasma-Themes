@@ -42,3 +42,8 @@ Plasma Theme
 
 Added icons: knotes.svg, sirikali.svg
 
+GTK Theme
+---------
+
+Update: checkbox-checked.png
+
