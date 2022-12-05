@@ -71,3 +71,8 @@ Plasma Theme
 
 Added icons: kdf.svg, kleopatra.svg
 
+GTK Theme
+---------
+
+Update: checkbox-mixed-hover.png
+
