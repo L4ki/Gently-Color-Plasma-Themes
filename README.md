@@ -76,3 +76,15 @@ GTK Theme
 
 Update: checkbox-mixed-hover.png
 
+Changelog: 12.12.2022.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Update icon: kalarm.svg
+
