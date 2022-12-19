@@ -88,3 +88,24 @@ Plasma Theme
 
 Update icon: kalarm.svg
 
+Changelog: 19.12.2022.
+----------------------
+
+Icons
+-----
+
+Light Icons
+-----------
+
+Update icons: apps 22, 24
+
+Dark Icons
+-----------
+
+Update icons: actions 22, 24
+
+Plasma Theme
+------------
+
+Added icon: jami.svg
+
