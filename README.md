@@ -109,3 +109,15 @@ Plasma Theme
 
 Added icon: jami.svg
 
+Changelog: 26.12.2022.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Update icons: yakuake.svg, zoom.svg
+
