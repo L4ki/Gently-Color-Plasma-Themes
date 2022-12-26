@@ -22,37 +22,16 @@
      id="defs7231">
     <style
        id="current-color-scheme"
-       type="text/css">
-.ColorScheme-Text { 
-    color:#eff0f1;
-}
-      .ColorScheme-Background{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ViewText {
-        color:#000000;
-      }
-      .ColorScheme-ViewBackground{
-        color:#ffffff;
-      }
-      .ColorScheme-ViewHover {
-        color:#000000;
-      }
-      .ColorScheme-ViewFocus{
-        color:#5a5a5a;
-      }
-      .ColorScheme-ButtonText {
-        color:#000000;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ButtonHover {
-        color:#1489ff;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#2B74C7;
-      }
+       type="text/css">.ColorScheme-Text { color:#eff0f1; }
+.ColorScheme-Background { color:#E9E8E8; }
+.ColorScheme-ViewText { color:#000000; }
+.ColorScheme-ViewBackground { color:#ffffff; }
+.ColorScheme-ViewHover { color:#000000; }
+.ColorScheme-ViewFocus { color:#5a5a5a; }
+.ColorScheme-ButtonText { color:#000000; }
+.ColorScheme-ButtonBackground { color:#E9E8E8; }
+.ColorScheme-ButtonHover { color:#1489ff; }
+.ColorScheme-ButtonFocus { color:#2B74C7; }
 </style>
     <style
        type="text/css"
@@ -100,7 +79,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="11.1875"
+     inkscape:cx="1.875"
      inkscape:cy="27.5625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -166,7 +145,7 @@
          inkscape:connector-curvature="0"
          id="path4246"
          d="m 253.5232,366.50504 v 1 h 10 10 v -1 z m 10,1 -3,3 h 2 v 3.1875 c -1.15834,0.41552 -2,1.51119 -2,2.8125 0,1.30132 0.84166,2.39699 2,2.8125 v 3.1875 h -2 l 3,3 3,-3 h -2 v -3.1875 c 1.15835,-0.41551 2,-1.51118 2,-2.8125 0,-1.30131 -0.84165,-2.39698 -2,-2.8125 v -3.1875 h 2 z m 0,18 h -10 v 1 h 20 v -1 z m 0,-11 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10456,0 -2,-0.89543 -2,-2 0,-1.10457 0.89544,-2 2,-2 z"
-         style="stroke:none;fill-opacity:1;fill:currentColor"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          class="ColorScheme-Text" />
       <circle
          transform="translate(252.5232,365.50504)"
