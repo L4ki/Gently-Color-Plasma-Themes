@@ -23,9 +23,9 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#000000;
-      }
+.ColorScheme-Text { 
+    color:#eff0f1;
+}
       .ColorScheme-Background{
         color:#E9E8E8;
       }
@@ -100,13 +100,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="11"
+     inkscape:cx="11.1875"
      inkscape:cy="27.5625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
@@ -166,12 +166,12 @@
          inkscape:connector-curvature="0"
          id="path4246"
          d="m 253.5232,366.50504 v 1 h 10 10 v -1 z m 10,1 -3,3 h 2 v 3.1875 c -1.15834,0.41552 -2,1.51119 -2,2.8125 0,1.30132 0.84166,2.39699 2,2.8125 v 3.1875 h -2 l 3,3 3,-3 h -2 v -3.1875 c 1.15835,-0.41551 2,-1.51118 2,-2.8125 0,-1.30131 -0.84165,-2.39698 -2,-2.8125 v -3.1875 h 2 z m 0,18 h -10 v 1 h 20 v -1 z m 0,-11 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10456,0 -2,-0.89543 -2,-2 0,-1.10457 0.89544,-2 2,-2 z"
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor"
          class="ColorScheme-Text" />
       <circle
          transform="translate(252.5232,365.50504)"
          id="path3044"
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          cx="11.012515"
          cy="11.000004"
          r="1"
@@ -189,13 +189,13 @@
        transform="rotate(90,275.54197,413.5113)"
        id="zoom-fit-width">
       <path
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          d="m 253.5232,366.50504 v 1 h 10 10 v -1 z m 10,1 -3,3 h 2 v 3.1875 c -1.15834,0.41552 -2,1.51119 -2,2.8125 0,1.30132 0.84166,2.39699 2,2.8125 v 3.1875 h -2 l 3,3 3,-3 h -2 v -3.1875 c 1.15835,-0.41551 2,-1.51118 2,-2.8125 0,-1.30131 -0.84165,-2.39698 -2,-2.8125 v -3.1875 h 2 z m 0,18 h -10 v 1 h 20 v -1 z m 0,-11 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10456,0 -2,-0.89543 -2,-2 0,-1.10457 0.89544,-2 2,-2 z"
          id="path3823"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text" />
       <circle
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          id="path3825"
          transform="translate(252.5232,365.50504)"
          cx="11.012515"
@@ -218,7 +218,7 @@
          inkscape:connector-curvature="0"
          id="path4248"
          d="m 256.5232,369.50504 v 1 h 7 7 v -1 z m 7,1 -2,2 h 1 c 0,0 0.007,1.1284 0,2.28125 -0.5969,0.34604 -1,0.97915 -1,1.71875 0,0.7396 0.4031,1.37271 1,1.71875 0.007,1.18625 0,2.3125 0,2.3125 h -1 l 1.96875,1.96875 h -6.9375 v 1 h 13.96875 v -1 h -6.96875 l 1.96875,-1.96875 -1.03125,-0.0312 v -2.25 c 0.61694,-0.34059 1.03125,-0.99545 1.03125,-1.75 0,-0.75455 -0.41431,-1.40941 -1.03125,-1.75 v -2.21875 l 1.03125,-0.0312 -2,-2 z m -0.125,5.03125 h 0.25 c 0.4881,0.0662 0.875,0.46249 0.875,0.96875 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.50626 0.3869,-0.90253 0.875,-0.96875 z"
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          class="ColorScheme-Text" />
       <rect
          transform="translate(255.5232,368.50504)"
@@ -233,7 +233,7 @@
        id="16-16-zoom-fit-width"
        transform="rotate(90,275.53572,388.50505)">
       <path
-         style="fill:#eff0f1;fill-opacity:1;stroke:none"
+         style="stroke:none;fill-opacity:1;fill:currentColor;"
          d="m 256.5232,369.50504 v 1 h 7 7 v -1 z m 7,1 -2,2 h 1 c 0,0 0.007,1.1284 0,2.28125 -0.5969,0.34604 -1,0.97915 -1,1.71875 0,0.7396 0.4031,1.37271 1,1.71875 0.007,1.18625 0,2.3125 0,2.3125 h -1 l 1.96875,1.96875 h -6.9375 v 1 h 13.96875 v -1 h -6.96875 l 1.96875,-1.96875 -1.03125,-0.0312 v -2.25 c 0.61694,-0.34059 1.03125,-0.99545 1.03125,-1.75 0,-0.75455 -0.41431,-1.40941 -1.03125,-1.75 v -2.21875 l 1.03125,-0.0312 -2,-2 z m -0.125,5.03125 h 0.25 c 0.4881,0.0662 0.875,0.46249 0.875,0.96875 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.50626 0.3869,-0.90253 0.875,-0.96875 z"
          id="path3849"
          inkscape:connector-curvature="0"
