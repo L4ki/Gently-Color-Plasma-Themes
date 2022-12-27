@@ -18,8 +18,8 @@ Download: https://www.pling.com/p/1934172
   </body>
 </html>
 
-![PayPal](https://user-images.githubusercontent.com/45247573/209690335-3d6f0faf-d834-43df-86cb-ccdefe943993.png)
-__________________________________________________________________________________________________________________  
+
+
   
 Screenshots:
 -------------
