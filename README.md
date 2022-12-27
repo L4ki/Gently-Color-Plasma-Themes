@@ -4,19 +4,9 @@ Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
 
-Donate
-------
-
-If you like my project, you can donate at:(https://www.paypal.com/paypalme/VesnaLazic![PayPal]
-
-
-
-
-
-
-
 
 Screenshots:
+-------------
 
 ![Screenshot_20221106_085617](https://user-images.githubusercontent.com/45247573/200539930-34adf549-a410-49a4-98a0-5c257dd552eb.png)
 
