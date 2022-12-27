@@ -10,7 +10,7 @@ Download: https://www.pling.com/p/1934172
     <meta charset="utf-8" />
   </head>
   <body>
-    <h2>DONATE</h2>
+    <h2>Donate</h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
     <img src=![PayPal](https://user-images.githubusercontent.com/45247573/209689199-82149de9-c20c-4497-972a-264f5416bb28.png)
     </a>
