@@ -9,7 +9,7 @@ Donate
 
 If you like my project, you can donate at:
 
-![PayPal](https://www.paypal.com/paypalme/VesnaLazic)](https://user-images.githubusercontent.com/45247573/209672331-6ac4ed58-3f50-4bee-8fe4-65586a5b6485.png)
+https://www.paypal.com/paypalme/VesnaLazic
 
 
 
