@@ -4,8 +4,7 @@ Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
 
-
-https://https://www.paypal.com/paypalme/VesnaLazic
+https://www.paypal.com/paypalme/VesnaLazic
 
 
 
