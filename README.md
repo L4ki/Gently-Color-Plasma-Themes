@@ -4,7 +4,8 @@ Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
 
-<a href=“https://www.paypal.com/paypalme/VesnaLazic“> <img src=“PayPal.png“ …> </a>
+![PayPal]([https://](https://www.paypal.com/paypalme/VesnaLazic)-images.githubusercontent.com/45247573/209678914-02681a76-33b9-4123-bead-19e444d470f1.png)
+
 
 
 Screenshots:
