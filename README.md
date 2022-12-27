@@ -5,20 +5,6 @@ Gently-Color-Plasma-Themes
 Download: https://www.pling.com/p/1934172
 
 
-<html>
-  <head>
-    <meta charset="utf-8" />
-  </head>
-  <body>
-    <h2>Poveznica ili link</h2>
-    <a href="https://www.google.hr">
-    <img src="file:///home/l4k1/openSUSE/Iconice Juli 2022./PayPal.png"  />
-    </a>
-  </body>
-</html>
-
-
-
 Screenshots:
 -------------
 
