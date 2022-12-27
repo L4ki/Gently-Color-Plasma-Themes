@@ -3,17 +3,20 @@
 Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
-
-<html>
+ <html>
   <head>
     <meta charset="utf-8" />
   </head>
   <body>
     <h2>Donate</h2>
-    <h2>If you like my project, you can donate at:</h2>
+   <h2>If you like my project, you can donate at:<h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
-    <img src="PayPal.png" alt="PayPal" /> 
-![PayPal](https://user-images.githubusercontent.com/45247573/209694117-3107573f-b122-41ce-9b26-48b6ce1508bf.png)
+    <img src=![PayPal](https://user-images.githubusercontent.com/45247573/209689199-82149de9-c20c-4497-972a-264f5416bb28.png)
+    </a>
+  </body>
+</html>
+
+![PayPal](https://user-images.githubusercontent.com/45247573/209690335-3d6f0faf-d834-43df-86cb-ccdefe943993.png)
     </a>
   </body>
 </html>
