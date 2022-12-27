@@ -4,6 +4,19 @@ Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
 
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Poveznica ili link</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="webdizajn.jpg" alt="Moj web dizajn" />
+    </a>
+  </body>
+</html>
+
 
 Screenshots:
 -------------
