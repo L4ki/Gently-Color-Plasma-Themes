@@ -10,9 +10,9 @@ Download: https://www.pling.com/p/1934172
     <meta charset="utf-8" />
   </head>
   <body>
-    <h2>Donate</h2>
+    <h2>DONATE</h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
-    <img src="[PayPal.png](https://camo.githubusercontent.com/a1b0ddb6365c55e7eb757c57ad1513b11656ae2e8281fb3ca21fbae9898ef89d/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f7765627374617469632f6d6b74672f4c6f676f2f70702d6c6f676f2d31303070782e706e67)" alt="[PayPal](https://camo.githubusercontent.com/a1b0ddb6365c55e7eb757c57ad1513b11656ae2e8281fb3ca21fbae9898ef89d/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f7765627374617469632f6d6b74672f4c6f676f2f70702d6c6f676f2d31303070782e706e67)" />
+    <img src="[![PayPal.png](https://i.postimg.cc/Zq901VPg/PayPal.png)](https://postimg.cc/t1jX6dMt)" />
     </a>
   </body>
 </html>
