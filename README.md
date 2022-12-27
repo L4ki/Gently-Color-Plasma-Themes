@@ -12,11 +12,12 @@ Download: https://www.pling.com/p/1934172
     <h2>Donate</h2>
     <h2>If you like my project, you can donate at:</h2>
     <a href="https://www.paypal.com/paypalme/VesnaLazic">
-    <img src="PayPal.png" alt="PayPal" />
+    <img src="PayPal.png" alt="PayPal" /> 
+![PayPal](https://user-images.githubusercontent.com/45247573/209694117-3107573f-b122-41ce-9b26-48b6ce1508bf.png)
     </a>
   </body>
 </html>
-  
+
 
 
 Screenshots:
