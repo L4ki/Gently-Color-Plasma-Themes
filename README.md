@@ -4,7 +4,7 @@ Gently-Color-Plasma-Themes
 
 Download: https://www.pling.com/p/1934172
 
-<a href=“https://www.paypal.com/paypalme/VesnaLazic“> <img src=“file:///home/l4k1/openSUSE/Iconice%20Juli%202022./PayPal.png“ …> </a>
+<a href=“https://www.paypal.com/paypalme/VesnaLazic“> <img src=“PayPal.png“ …> </a>
 
 
 Screenshots:
