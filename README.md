@@ -7,10 +7,11 @@ Download: https://www.pling.com/p/1934172
 Donate
 ------
 
-If you like my project, you can donate at:
+If you like my project, you can donate at:(https://www.paypal.com/paypalme/VesnaLazic![PayPal](https://user-images.githubusercontent.com/45247573/209674249-e5382b68-bd17-43f8-b6bc-3fdb5ee331ed.png)
 
 
-[https://user-images.githubusercontent.com](https://www.paypal.com/paypalme/VesnaLazic)/45247573/209673817-3ede0dc8-00e1-4356-b5c5-605fbe3353a0.png)
+
+
 
 
 
