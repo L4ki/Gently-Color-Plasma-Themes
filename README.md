@@ -1,10 +1,15 @@
 # Gently-Color-Plasma-Themes
 
 Follows Color Scheme
+---------------------
 
-Gently-Color-Plasma-Themes
 
-Download: https://www.pling.com/p/1934172
+"Gently-Color-Plasma"
+
+Download:
+---------
+
+https://www.pling.com/p/1934172
 
 <html>
   <head>
