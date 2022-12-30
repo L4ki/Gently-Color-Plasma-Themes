@@ -1,10 +1,7 @@
 # Gently-Color-Plasma-Themes
 
-Follows Color Scheme
----------------------
-
-
-"Gently-Color-Plasma"
+"Gently-Color-Plasma" (Follows Color Scheme)
+--------------------------------------------
 
 Download:
 ---------
