@@ -167,3 +167,7 @@ Plasma Theme
 
 Added icons: mellowplayer.svg
 
+GTK-Theme
+---------
+
+Update:  checkbox-checked-hover.png
