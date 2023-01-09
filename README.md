@@ -154,3 +154,16 @@ Plasma Theme
 
 Added icons: internet.svg, office.svg
 
+
+Changelog: 09.01.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 64
+
+Plasma Theme
+------------
+
+Added icons: mellowplayer.svg
+
