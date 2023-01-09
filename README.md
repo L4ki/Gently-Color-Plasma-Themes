@@ -165,7 +165,7 @@ Added new icons: apps 32, 64
 Plasma Theme
 ------------
 
-Added icons: mellowplayer.svg
+Added icon: mellowplayer.svg
 
 GTK-Theme
 ---------
