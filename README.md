@@ -178,7 +178,7 @@ Changelog: 16.01.2023.
 
 Icons
 -----
-Added new icons: apps 32, 64
+Added new icons: apps 32, 48
 
 Plasma Theme
 ------------
