@@ -171,3 +171,16 @@ GTK-Theme
 ---------
 
 Update:  checkbox-checked-hover.png
+
+
+Changelog: 16.01.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 64
+
+Plasma Theme
+------------
+
+Added icon: cadence.svg
