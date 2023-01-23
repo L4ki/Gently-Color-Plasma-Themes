@@ -184,3 +184,21 @@ Plasma Theme
 ------------
 
 Added icon: cadence.svg
+
+
+Changelog: 23.01.2023.
+----------------------
+
+Kvantum Theme
+-------------
+
+Update: Gently-Color-Kvantum.svg
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: clock.svg
