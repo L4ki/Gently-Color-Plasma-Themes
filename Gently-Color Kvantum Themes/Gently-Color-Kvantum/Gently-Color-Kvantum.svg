@@ -25,9 +25,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="387.99999"
-     inkscape:cx="1190"
-     inkscape:zoom="0.50000001"
+     inkscape:cy="308.74999"
+     inkscape:cx="306.24999"
+     inkscape:zoom="2"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="1004"
@@ -7028,39 +7028,39 @@
   </g>
   <path
      id="menubaritem-focused-left"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 36.005461,397.41571 v -18.4614 H 30.23622 l 3.5e-4,18.4615 z" />
   <path
      id="menubaritem-focused-topleft"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 36.005391,373.18511 c -3.173012,-1e-4 -5.769161,2.5961 -5.769151,5.7691 h 5.769181 z" />
   <path
      id="menubaritem-focused"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 36.005461,378.95431 v 18.4615 h 18.461543 v -18.4615 z" />
   <path
      id="menubaritem-focused-right"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 54.467004,397.41571 v -18.4614 h 5.76923 l -3.6e-4,18.4615 z" />
   <path
      id="menubaritem-focused-topright"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 54.467054,373.18511 c 3.17301,-1e-4 5.76916,2.5961 5.76915,5.7691 h -5.76918 z" />
   <path
      id="menubaritem-focused-top"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 36.005511,378.95431 h 18.461423 v -5.7692 H 36.005391 Z" />
   <path
      id="menubaritem-focused-bottom"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="M 54.466874,397.41581 H 36.005461 v 5.7693 h 18.461543 z" />
   <path
      id="menubaritem-focused-bottomleft"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 36.005461,403.18511 c -3.173052,0 -5.769211,-2.5962 -5.769191,-5.7692 l 5.769181,-10e-5 z" />
   <path
      id="menubaritem-focused-bottomright"
-     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.4"
+     style="opacity:0.1;fill:#3b5a87;fill-opacity:0.41"
      d="m 54.466974,403.18511 c 3.17305,0 5.76921,-2.5962 5.76919,-5.7692 l -5.76916,-10e-5 z" />
   <path
      id="menubaritem-toggled-left"
