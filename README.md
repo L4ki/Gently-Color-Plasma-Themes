@@ -194,6 +194,11 @@ Kvantum Theme
 
 Update: Gently-Color-Kvantum.svg
 
+GTK Theme
+---------
+
+Update: checkbox-checked-insensitive.png
+
 Icons
 -----
 Added new icons: apps 32, 48
