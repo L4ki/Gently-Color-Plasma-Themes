@@ -207,3 +207,15 @@ Plasma Theme
 ------------
 
 Update widget: clock.svg
+
+Changelog: 31.01.2023.
+----------------------
+
+Icons
+-----
+Added new icons: preferences 22, 32
+
+Plasma Theme
+------------
+
+Added icons: onboard.svg, mobile.svg
