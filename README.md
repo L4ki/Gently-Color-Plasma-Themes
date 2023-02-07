@@ -219,3 +219,16 @@ Plasma Theme
 ------------
 
 Added icons: onboard.svg, mobile.svg
+
+
+Changelog: 07.02.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: process.svg, desktop.svg
