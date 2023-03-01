@@ -274,3 +274,9 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
+
+GTK Theme
+----------
+
+Update: line.png
+
