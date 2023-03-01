@@ -262,3 +262,15 @@ Plasma Theme
 
 Added icon: ring.svg
 
+Changelog: 01.03.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: corectrl.svg
+
