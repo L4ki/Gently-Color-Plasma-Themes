@@ -280,3 +280,15 @@ GTK Theme
 
 Update: line.png
 
+Changelog: 08.03.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
