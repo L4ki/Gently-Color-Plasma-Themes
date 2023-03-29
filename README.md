@@ -316,3 +316,20 @@ Plasma Theme
 
 Added icon: krfb.svg
 
+Changelog: 29.03.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons:  fcitx.svg, ime.svg
+
+GTK Theme
+---------
+
+Update: tab-horz-gap.png, tab-vert-gap.png
+
