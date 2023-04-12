@@ -345,3 +345,15 @@ Plasma Theme
 
 Added icon:  lutris.svg
 
+Changelog: 12.04.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: veracrypt.svg
+
