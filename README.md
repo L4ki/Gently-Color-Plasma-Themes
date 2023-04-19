@@ -357,3 +357,21 @@ Plasma Theme
 
 Added icon: veracrypt.svg
 
+
+Changelog: 19.04.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
+GTK Theme
+---------
+
+Update: handle.png
+
