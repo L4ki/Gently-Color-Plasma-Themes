@@ -375,3 +375,20 @@ GTK Theme
 
 Update: handle.png
 
+Changelog: 26.04.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
+
+GTK Theme
+---------
+
+Added: gtk-4.0
+
