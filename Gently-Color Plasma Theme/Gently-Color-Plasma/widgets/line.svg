@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="128"
-   height="128"
+   width="47"
+   height="45"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -18,11 +20,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <style
-     id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { color:#306994; }
-.ColorScheme-Background { color:#192432; }
-</style>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -31,74 +28,63 @@
      gridtolerance="10000"
      guidetolerance="10"
      objecttolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="78.75"
-     inkscape:cy="88.625"
+     inkscape:zoom="11.780128"
+     inkscape:cx="12.605975"
+     inkscape:cy="26.18817"
      inkscape:document-units="px"
-     inkscape:current-layer="horizontal-line"
+     inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
      inkscape:window-maximized="1"
-     inkscape:lockguides="false"
-     inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="true"
+     borderlayer="false"
      inkscape:pagecheckerboard="0"
-     showguides="false"
+     inkscape:lockguides="false"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
        empspacing="2"
-       empopacity="0.4"
-       opacity="0.2"
-       empcolor="#0000ff"
+       empopacity="0.01960784"
+       opacity="0.01960784"
+       empcolor="#0101ff"
        color="#0000ff"
-       spacingy="1"
-       spacingx="1"
-       originy="0"
-       originx="0"
+       spacingy="2"
+       spacingx="2"
+       originy="-69"
+       originx="-28"
        type="xygrid"
-       id="GridFromPre046Settings" />
+       id="GridFromPre046Settings"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 64 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="128 : 64 : 1"
-       inkscape:persp3d-origin="64 : 42.666667 : 1"
-       id="perspective28" />
-    <linearGradient
-       id="linearGradient4213">
-      <stop
-         id="stop4215"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop4217"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3272">
-      <stop
-         style="stop-color:white;stop-opacity:1;"
-         offset="0"
-         id="stop3274" />
-      <stop
-         style="stop-color:white;stop-opacity:0;"
-         offset="1"
-         id="stop3276" />
-    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Highlight { color:#00aaff; }
+.ColorScheme-Text { color:#31363b; }
+.ColorScheme-Background { color:#eff0f1; }
+.ColorScheme-ViewText { color:#31363b; }
+.ColorScheme-ViewBackground { color:#fcfcfc; }
+.ColorScheme-ViewHover { color:#3daee9; }
+.ColorScheme-ViewFocus { color:#3daee9; }
+.ColorScheme-ButtonText { color:#31363b; }
+.ColorScheme-ButtonBackground { color:#eff0f1; }
+.ColorScheme-ButtonHover { color:#3daee9; }
+.ColorScheme-ButtonFocus { color:#3daee9; }
+</style>
   </defs>
   <metadata
      id="metadata7">
@@ -114,61 +100,59 @@
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <g
-       id="horizontal-line"
-       transform="translate(26,45)"
-       style="fill:#000000;fill-opacity:1">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:0.01;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4223"
-         width="42"
-         height="1"
-         x="11"
-         y="32" />
-      <rect
-         y="33"
-         x="11"
-         height="1"
-         width="42"
-         id="rect4209"
-         style="stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none;stroke-miterlimit:4;stroke-linejoin:round;stroke-linecap:round;stroke-width:1;stroke:none;fill-rule:nonzero;fill-opacity:0.40000001;fill:currentColor;opacity:1;"
-         class="ColorScheme-Background" />
-      <rect
-         style="opacity:0.00899999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect2706"
-         width="42"
-         height="1"
-         x="11"
-         y="31" />
-    </g>
+     inkscape:label="Layer 1"
+     transform="translate(-28,-14)">
     <g
        id="vertical-line"
-       transform="translate(26,45)">
-      <rect
-         transform="rotate(-90)"
-         y="8"
-         x="-31"
-         height="1"
-         width="42"
-         id="rect4227"
-         style="opacity:0.01;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90)"
-         style="opacity:0.00499998;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4229"
-         width="42"
-         height="1"
-         x="-31"
-         y="9" />
-      <rect
-         y="7.5"
-         x="-31"
-         height="0.5"
-         width="42"
-         id="rect2721"
-         style="stroke-opacity:1;stroke-dashoffset:0;stroke-dasharray:none;stroke-miterlimit:4;stroke-linejoin:round;stroke-linecap:round;stroke-width:0.707107;stroke:none;fill-rule:nonzero;fill-opacity:1;fill:currentColor;opacity:0.251;"
-         transform="rotate(-90)"
+       inkscape:label="#g3763"
+       transform="translate(-4.96875,0.40625)">
+      <path
+         style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
+         d="m 32.96875,13.59375 v 40 h 3 v -40 z"
+         id="path2993"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Text"
+         inkscape:label="#path2998" />
+      <path
+         style="color:#eff0f1;opacity:0.01;fill:currentColor;fill-opacity:0.1;stroke:none;stroke-width:1"
+         d="m 33.96875,13.59375 v 40 h 1 v -40 z"
+         id="path3785"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Background"
+         inkscape:label="#path2998" />
+      <path
+         inkscape:label="#path2998"
+         inkscape:connector-curvature="0"
+         id="path2998"
+         d="m 33.96875,13.59375 v 40 h 0.25 v -40 z"
+         style="stroke-width:0.5;stroke:none;fill-opacity:0.25;fill:currentColor;"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="horizontal-line"
+       inkscape:label="#g3769"
+       transform="translate(-0.690972,0.471)"
+       style="fill:#00101a;fill-opacity:1">
+      <path
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         id="path3767"
+         d="m 75.690972,55.529 h -40 v 3 h 40 z"
+         style="color:#31363b;opacity:0.01;fill:#00070a;fill-opacity:1;stroke:none"
+         inkscape:label="#path2992" />
+      <path
+         inkscape:label="#path2992"
+         style="color:#eff0f1;opacity:1;fill:#002133;fill-opacity:0.01;stroke:none"
+         d="m 75.690972,56.529 h -40 v 1 h 40 z"
+         id="path2992"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Background" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3787"
+         d="m 75.690972,57.329 h -40 v 0.1 h 40 z"
+         style="stroke-width:0.316228;stroke:none;fill-opacity:0.25;fill:currentColor;"
+         inkscape:label="#path2992"
          class="ColorScheme-Highlight" />
     </g>
   </g>
