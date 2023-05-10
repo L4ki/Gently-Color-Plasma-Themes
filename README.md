@@ -409,3 +409,21 @@ GTK Theme
 
 Update: focus.png
 
+
+Changelog: 10.05.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: tabbar.svg
+
+GTK Theme
+---------
+
+Update: frame.png
+
