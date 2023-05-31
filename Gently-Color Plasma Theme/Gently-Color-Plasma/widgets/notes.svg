@@ -5,7 +5,7 @@
    version="1"
    id="svg138"
    sodipodi:docname="notes.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +28,7 @@
      id="defs142" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      id="namedview140"
      showgrid="false"
      inkscape:zoom="0.16233191"
-     inkscape:cx="-560.57986"
-     inkscape:cy="-606.7815"
+     inkscape:cx="471.2567"
+     inkscape:cy="557.49975"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg138"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:lockguides="false"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
   <g
      id="black-notes"
-     transform="translate(-2217,-29)">
+     transform="translate(-675,634)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -91,7 +91,7 @@
   </g>
   <g
      id="white-notes"
-     transform="translate(-2731,-692)">
+     transform="translate(-1189,-29)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -130,7 +130,7 @@
   </g>
   <g
      id="yellow-notes"
-     transform="translate(-2217,-692.00002)">
+     transform="translate(-675,-29.00002)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -169,7 +169,7 @@
   </g>
   <g
      id="red-notes"
-     transform="translate(-1703,-692.00002)">
+     transform="translate(-161,-29.00002)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -208,7 +208,7 @@
   </g>
   <g
      id="orange-notes"
-     transform="translate(-3245,-28.99998)">
+     transform="translate(-1703,634.00002)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -247,7 +247,7 @@
   </g>
   <g
      id="green-notes"
-     transform="translate(-2731,-29)">
+     transform="translate(-1189,634)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -286,7 +286,7 @@
   </g>
   <g
      id="blue-notes"
-     transform="translate(-3245,-692)">
+     transform="translate(-1703,-29)">
     <rect
        style="opacity:0.00100002"
        width="514"
@@ -325,7 +325,7 @@
   </g>
   <g
      id="pink-notes"
-     transform="translate(-1703,-29)">
+     transform="translate(-161,634)">
     <rect
        style="opacity:0.00100002"
        width="514"
