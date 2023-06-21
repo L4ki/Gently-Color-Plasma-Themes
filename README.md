@@ -512,3 +512,25 @@ GTK Theme
 
 Update: tab-down.png
 
+Changelog: 21.06.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update: metadata.desktop
+
+GTK Theme
+---------
+
+Update: border.png
+
