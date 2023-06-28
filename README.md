@@ -534,3 +534,20 @@ GTK Theme
 
 Update: border.png
 
+Changelog: 28.06.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: strawberry.svg
+
+GTK Theme
+---------
+
+Update: progressbar-horz.png
+
