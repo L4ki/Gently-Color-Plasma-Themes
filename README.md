@@ -569,3 +569,19 @@ GTK Theme
 
 Update: gtk-3.0
 
+Changelog: 12.07.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: frame.svg
+
+GTK Theme
+---------
+
+Update:  bullet-symbolic.svg
