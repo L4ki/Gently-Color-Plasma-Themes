@@ -585,3 +585,20 @@ GTK Theme
 ---------
 
 Update:  bullet-symbolic.svg
+
+Changelog: 19.07.2023.
+----------------------
+
+Icons
+-----
+Update icons: preferences 22, 32
+
+Plasma Theme
+------------
+
+Update icon: audio.svg
+
+GTK Theme
+---------
+
+Update: checkmark-symbolic.svg
