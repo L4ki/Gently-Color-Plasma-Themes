@@ -602,3 +602,20 @@ GTK Theme
 ---------
 
 Update: checkmark-symbolic.svg
+
+Changelog: 26.07.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Added widget: radiobutton.svg
+
+GTK Theme
+---------
+
+Update:  dash-symbolic.svg
