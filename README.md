@@ -619,3 +619,20 @@ GTK Theme
 ---------
 
 Update:  dash-symbolic.svg
+
+Changelog: 02.08.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: skype.svg
+
+GTK Theme
+---------
+
+Update: gtk-2.0
