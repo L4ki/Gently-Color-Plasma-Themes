@@ -620,7 +620,7 @@ GTK Theme
 
 Update:  dash-symbolic.svg
 
-Changelog: 02.08.2023.
+Changelog: 03.08.2023.
 ----------------------
 
 Icons
