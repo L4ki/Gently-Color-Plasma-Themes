@@ -637,7 +637,7 @@ GTK Theme
 
 Update: gtk-2.0
 
-Changelog: 10.08.2023.
+Changelogs: 10.08.2023.
 ----------------------
 
 Icons
