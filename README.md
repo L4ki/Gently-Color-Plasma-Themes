@@ -636,3 +636,20 @@ GTK Theme
 ---------
 
 Update: gtk-2.0
+
+Changelog: 10.08.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: dragger.svg
+
+GTK Theme
+---------
+
+Update:  checkbox-checked.png
