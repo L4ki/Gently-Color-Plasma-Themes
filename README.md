@@ -704,3 +704,20 @@ GTK Theme
 ---------
 
 Update: border.png
+
+Changelogs: 07.09.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added : wind-arrows.svg
+
+GTK Theme
+---------
+
+Update: menubar-item-active.png
