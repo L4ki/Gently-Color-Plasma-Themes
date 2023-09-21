@@ -738,3 +738,20 @@ GTK Theme
 ---------
 
 Update: frame-notebook.png
+
+Changelogs: 21.09.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added widget: media-delegate.svg
+
+GTK Theme
+---------
+
+Update: frame-inline.png
