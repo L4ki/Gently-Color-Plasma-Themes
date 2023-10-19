@@ -807,3 +807,20 @@ GTK Theme
 ---------
 
 Update: focus.png
+
+Changelogs: 19.10.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: linr.svg
+
+GTK Theme
+---------
+
+Update: handle.png
