@@ -841,3 +841,20 @@ GTK Theme
 ---------
 
 Update: treeview-separator-ltr.png
+
+Changelogs: 0211.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: search.svg
+
+GTK Theme
+---------
+
+Update: gtkrc
