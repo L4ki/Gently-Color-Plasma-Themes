@@ -21,6 +21,7 @@ gtk-color-scheme = "sidebar_fg:#eceff4"
 gtk-auto-mnemonics = 1
 gtk-primary-button-warps-slider = 1
 
+
 # And hand over the control to the theme files
 include "main.rc"
 include "apps.rc"
