@@ -966,4 +966,22 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelogs: 23.12.2023.
+----------------------
+
+Icons
+-----
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: clock.svg
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
+
 
