@@ -1001,4 +1001,10 @@ Aurorae Themes
 Update: restore.svg
 
 
+GTK Theme
+---------
+
+Update: gtk-4.0
+
+
 
