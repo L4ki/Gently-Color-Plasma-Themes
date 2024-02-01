@@ -38,29 +38,8 @@ Screenshots:
 
 ![Screenshot_20221106_115108](https://user-images.githubusercontent.com/45247573/200540360-5a080e00-5a7e-4994-ab4d-30b2e0883657.png)
 
+____________________________________________________________________________________________________________________________________
 
-
-Changelogs: 25.01.2024.
-----------------------
-
-GTK Theme
----------
-
-Update: gtk-3.0
-
-Icons
------
-Added new icons: apps 48
-
-Plasma Theme
-------------
-
-Added icon: osd.svg
-
-Aurorae Themes
----------------
-
-Update: keepabove.svg
 
 
 Changelogs: 01.02.2024.
