@@ -63,4 +63,27 @@ Aurorae Themes
 Update: keepabove.svg
 
 
+Changelogs: 01.02.2024.
+----------------------
+
+GTK Theme
+---------
+
+Update: styles
+
+Icons
+-----
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: bar_meter_vertical.svg
+
+Aurorae Themes
+---------------
+
+Update: maximize.svg
+
+
 
