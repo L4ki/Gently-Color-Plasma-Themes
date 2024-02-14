@@ -42,13 +42,8 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 01.02.2024.
+Changelogs: 14.02.2024.
 ----------------------
-
-GTK Theme
----------
-
-Update: styles
 
 Icons
 -----
@@ -57,12 +52,12 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: bar_meter_vertical.svg
+Added icon: sogoupinyin.svg
 
 Aurorae Themes
 ---------------
 
-Update: maximize.svg
+Update: minimize.svg
 
 
 
