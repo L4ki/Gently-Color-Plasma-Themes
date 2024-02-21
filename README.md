@@ -59,5 +59,10 @@ Aurorae Themes
 
 Update: keepbelow.svg
 
+GTK Theme
+----------
+
+Update: main.rc
+
 
 
