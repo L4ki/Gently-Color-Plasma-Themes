@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 14.02.2024.
+Changelogs: 21.02.2024.
 ----------------------
 
 Icons
@@ -52,12 +52,12 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: sogoupinyin.svg
+Update widget: tasks.svg
 
 Aurorae Themes
 ---------------
 
-Update: minimize.svg
+Update: keepbelow.svg
 
 
 
