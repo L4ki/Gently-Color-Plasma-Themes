@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   width="384"
+   height="384"
+   version="1.1"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#1a76ff;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="252"
+       cy="131.99879"
+       fx="252"
+       fy="131.99879"
+       r="72"
+       gradientTransform="matrix(0.99991853,0.01276492,-0.01383667,1.0838723,1.8469555,-14.287796)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#02334b"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#02334b"
+     inkscape:zoom="2.0075478"
+     inkscape:cx="227.64091"
+     inkscape:cy="178.82513"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="rect4140"
+     style="fill:#203046;fill-opacity:1"
+     d="M 170.93555,59.249737 170,58.322 v 190.98828 l 60,-9.34766 v -48.83984 l 42.09766,60.14062 109.21875,152.13672 H 384 L 322.2331,89.63506 Z"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="path4140"
+     style="opacity:0.05"
+     d="m 220,63.198 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+  <path
+     id="path4141"
+     style="opacity:0.05"
+     d="m 220,62.898 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+  <path
+     id="path4139"
+     style="opacity:0.05"
+     d="m 220,65.598 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+  <path
+     id="path4137"
+     style="opacity:0.05"
+     d="m 220,64.698 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+  <path
+     id="path4135"
+     style="opacity:0.05"
+     d="m 220,60.898 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+  <path
+     id="path14"
+     style="fill:url(#radialGradient2)"
+     d="m 220,66.798 -40,3.9784 v 170.25601 l 40,-6.232 v -72 l 56,80 47.544,-16 -63.544,-72 64,-72.00001 -48,-16 -56,80.00001 z" />
+</svg>
