@@ -42,22 +42,27 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 03.04.2024.
+Changelogs: 25.04.2024.
 ----------------------
 
 Icons
 -----
-Added new icons: apps 48
+Update icons: status
 
 Plasma Theme
 ------------
 
-Update widget: ltabbar.svg
+Update widget: tasks.svg
 
 Aurorae Themes
 ---------------
 
-Update: metadata.desktop
+Added Aurorae Themes For Plasma 6
+
+Added
+-----
+
+SDDM Theme, Global Theme and Splashscreen for Plasma 6
 
 
 
