@@ -47,7 +47,13 @@ Changelogs: 25.04.2024.
 
 Icons
 -----
+
 Update icons: status
+
+GTK Theme
+---------
+
+Update: apps.rc
 
 Plasma Theme
 ------------
