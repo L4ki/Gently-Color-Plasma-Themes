@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Gently-Color-Global-6",
+        "Description": "Gently-Color-Global-6 Theme by l4k1",
+        "Id": "Gently-Color-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Gently-Color-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://colorschemes.knsrc/api.kde-look.org/1934138",
+        "kns://colorschemes.knsrc/api.kde-look.org/1934133",
+        "kns://icons.knsrc/api.kde-look.org/1934150",
+        "kns://icons.knsrc/api.kde-look.org/1934145",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1934172",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2140584",
+        "kns://wallpaper.knsrc/api.kde-look.org/1982061",
+        "kns://wallpaper.knsrc/api.kde-look.org/1994278"
+    ]
+}
