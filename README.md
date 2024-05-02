@@ -42,33 +42,28 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 25.04.2024.
+Changelogs: 02.05.2024.
 ----------------------
 
 Icons
 -----
 
-Update icons: status
+Update icons: apps
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 Plasma Theme
 ------------
 
-Update widget: tasks.svg
+Update widget: button.svg
 
 Aurorae Themes
 ---------------
 
-Added Aurorae Themes For Plasma 6
-
-Added
------
-
-SDDM Theme, Global Theme and Splashscreen for Plasma 6
+Update: metadata.desktop
 
 
 
