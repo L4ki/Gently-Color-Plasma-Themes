@@ -6,7 +6,7 @@
    height="98"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="scrollbar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -23,20 +23,20 @@
 </style>
   <sodipodi:namedview
      id="base"
-     pagecolor="#eff0f1"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000003"
-     inkscape:cx="-16.249999"
-     inkscape:cy="57.124996"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="2.8749999"
+     inkscape:cy="72.999997"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -53,18 +53,23 @@
      guidehicolor="#ff0000"
      guidehiopacity="0.64705882"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#eff0f1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
-       visible="true"
+       visible="false"
        enabled="true"
        id="grid2555"
        type="xygrid"
        empspacing="5"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.55294118"
+       opacity="0.552941"
        empcolor="#0000ff"
-       empopacity="0.31764706" />
+       empopacity="0.31764706"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
@@ -96,7 +101,7 @@
     <g
        id="slider-center">
       <rect
-         style="stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          id="rect1992"
          width="1"
          height="10"
@@ -615,11 +620,11 @@
     <g
        id="slider-topleft">
       <path
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.09528497;fill:currentColor;opacity:1;"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1"
          d="m 12.000001,10.000002 v 3 h -3 C 9,11 10,10 12.000001,10.000002 Z"
          id="path3895"
          inkscape:connector-curvature="0"
-         class="ColorScheme-Text  ColorScheme-Highlight"
+         class="ColorScheme-Text  ColorScheme-Highlight "
          sodipodi:nodetypes="cccc" />
       <path
          class="ColorScheme-Background  ColorScheme-Highlight"
@@ -635,7 +640,7 @@
       <path
          id="rect3840"
          d="m 14.999993,10.000002 v 3 h 3 C 18,11 17,10 14.999993,10.000002 Z"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
@@ -649,7 +654,7 @@
     <g
        id="slider-left">
       <path
-         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.29999998;fill:currentColor;opacity:1;"
          d="m 12.000001,14.000002 v 9.999999 h -3 v -9.999999 z"
          id="path3891"
          inkscape:connector-curvature="0"
@@ -669,7 +674,7 @@
       <path
          id="rect3838"
          d="m 14.999993,14.000002 v 9.999999 h 3 v -9.999999 z"
-         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.866025;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight" />
       <rect
@@ -687,7 +692,7 @@
       <path
          id="path3901"
          d="m 12.000001,28 v -3 h -3 c -10e-7,2 0.999999,3 3,3 z"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text  ColorScheme-Highlight"
          sodipodi:nodetypes="cccc" />
@@ -702,7 +707,7 @@
        id="slider-bottomright">
       <path
          inkscape:connector-curvature="0"
-         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.75;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          d="m 14.999993,28 v -3 h 3 c 7e-6,2 -0.999993,3 -3,3 z"
          id="path3871"
          class="ColorScheme-Text  ColorScheme-Highlight"
@@ -726,112 +731,112 @@
     <rect
        id="background-horizontal-hint-right-inset"
        height="1"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
-       width="6"
-       x="-28.648603"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       width="9"
+       x="-28.648602"
        y="53" />
     <rect
        id="background-horizontal-hint-top-inset"
        height="6"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-36"
        y="41.297535" />
     <rect
        id="background-horizontal-hint-left-inset"
        height="1"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-45.648602"
        y="51" />
     <rect
        id="background-horizontal-hint-bottom-inset"
        height="6"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-33"
        y="58.297531" />
     <rect
        id="background-vertical-hint-right-inset"
        height="1.0000019"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
-       width="6"
-       x="-28.648603"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       width="9"
+       x="-28.648605"
        y="18" />
     <rect
        id="background-vertical-hint-top-inset"
        height="6"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-36"
        y="6.0000019" />
     <rect
        id="background-vertical-hint-left-inset"
        height="0.99999809"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="6"
        x="-45.648602"
        y="16.000002" />
     <rect
        id="background-vertical-hint-bottom-inset"
        height="6"
-       style="opacity:0.01;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:1;fill:#565d8a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="1"
        x="-33"
        y="23.000004" />
     <rect
        id="slider-hint-right-inset"
        height="1.0000019"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
-       width="6"
-       x="-53.648602"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       width="9"
+       x="-53.648613"
        y="18" />
     <rect
        id="slider-hint-top-inset"
        height="6"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-61"
        y="6.0000019" />
     <rect
        id="slider-hint-left-inset"
        height="0.99999809"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577348"
        width="6"
        x="-70.648613"
        y="16.000002" />
     <rect
        id="slider-hint-bottom-inset"
        height="6"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-58"
        y="23.000004" />
     <rect
        id="mouseover-slider-hint-right-inset"
        height="1"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
-       width="6"
-       x="-53.648602"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       width="9"
+       x="-53.648594"
        y="53" />
     <rect
        id="mouseover-slider-hint-top-inset"
        height="6"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-61"
        y="41.297535" />
     <rect
        id="mouseover-slider-hint-left-inset"
        height="1"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="6"
        x="-70.648613"
        y="51" />
     <rect
        id="mouseover-slider-hint-bottom-inset"
        height="6"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.577349"
        width="1"
        x="-58"
        y="58.297531" />
@@ -933,7 +938,7 @@
          inkscape:connector-curvature="0"
          id="path3909"
          d="m 14.000001,13 h -1 v -3 h 1 z"
-         style="stroke-width:0.273861;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.273861;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          class="ColorScheme-Text  ColorScheme-Highlight" />
       <path
          class="ColorScheme-ButtonFocus"
@@ -945,7 +950,7 @@
     <g
        id="slider-bottom">
       <path
-         style="stroke-width:0.273861;stroke:none;fill-rule:evenodd;fill-opacity:0.09411765;fill:currentColor;opacity:1;"
+         style="stroke-width:0.273861;stroke:none;fill-rule:evenodd;fill-opacity:0.29803923;fill:currentColor;opacity:1;"
          d="m 14.000001,25 h -1 v 3 h 1 z"
          id="path3915"
          inkscape:connector-curvature="0"
