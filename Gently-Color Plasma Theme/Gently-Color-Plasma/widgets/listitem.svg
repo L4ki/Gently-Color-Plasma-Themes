@@ -25,7 +25,7 @@
      type="text/css">.ColorScheme-Highlight { color:#565d8a;    stop-color:#565d8a; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="996"
+     inkscape:window-height="990"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -36,9 +36,9 @@
      bordercolor="#0100fa"
      pagecolor="#000000"
      id="base"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="78.1353"
-     inkscape:cy="84.322484"
+     inkscape:zoom="4"
+     inkscape:cx="46.5"
+     inkscape:cy="67.625001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6370,7 +6370,7 @@
        class="ColorScheme-Highlight " />
   </g>
   <g
-     id="g4">
+     id="hover-left">
     <rect
        y="28.999992"
        x="83.000008"
@@ -6408,10 +6408,9 @@
        class="ColorScheme-Highlight " />
   </g>
   <g
-     id="g2"
-     transform="translate(0,10)">
+     id="hover-right">
     <rect
-       y="18.999992"
+       y="28.999992"
        x="99.999992"
        height="6"
        width="7"
@@ -6420,7 +6419,7 @@
     <rect
        transform="rotate(90)"
        y="-106.00003"
-       x="18.999992"
+       x="28.999992"
        height="6"
        width="6"
        id="rect4846-4-2-9-6-0-5-7-6-2"
