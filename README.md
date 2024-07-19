@@ -53,12 +53,12 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
 
-Update widget: configuration-icons.svg
+Update widget: listitem.svg
 
 Aurorae Themes
 ---------------
