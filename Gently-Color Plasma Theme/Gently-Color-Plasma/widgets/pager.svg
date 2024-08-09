@@ -5,7 +5,7 @@
    height="31"
    id="svg11324"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,25 +29,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="996"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="16.000001"
-     inkscape:cx="4.8124998"
-     inkscape:cy="10.53125"
+     inkscape:cx="4.8124997"
+     inkscape:cy="15.562499"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11324"
      inkscape:lockguides="true"
      inkscape:document-rotation="0"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid864"
        originx="-4.9609986"
-       originy="-12.008" />
+       originy="-12.008"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3500">
