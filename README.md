@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 23.08.2024.
+Changelogs: 30.08.2024.
 ----------------------
 
 Icons
@@ -53,12 +53,12 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: hacks-dark.rc
 
 Plasma Theme
 ------------
 
-Update widget: containment-controls.svg
+Update widget: toolbar.svg
 
 Aurorae Themes
 ---------------
