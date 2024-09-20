@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 13.09.2024.
+Changelogs: 20.09.2024.
 ----------------------
 
 Icons
@@ -53,12 +53,12 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-3.0
 
 Plasma Theme
 ------------
 
-Update widget: panel-background.svg
+Update widget: plasmoidheading.svg
 
 Aurorae Themes
 ---------------
