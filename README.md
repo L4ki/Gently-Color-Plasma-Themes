@@ -42,23 +42,23 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 27.09.2024.
+Changelogs: 04.10.2024.
 ----------------------
 
 Icons
 -----
 
-Added new icons: actions
+Added new icons: apps 48
 
 GTK Theme
 ---------
 
-Update: styles
+Update: main.rc
 
 Plasma Theme
 ------------
 
-Update widget: switch.svg
+Update widget: button.svg
 
 Aurorae Themes
 ---------------
