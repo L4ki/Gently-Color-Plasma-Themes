@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 01.11.2024.
+Changelogs: 08.11.2024.
 ----------------------
 
 Icons
@@ -53,12 +53,12 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
 
-Update widget: lineedit.svg
+Update widget: tasks.svg
 
 Aurorae Themes
 ---------------
