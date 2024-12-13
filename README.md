@@ -48,7 +48,7 @@ Changelogs: 13.12.2024.
 Icons
 -----
 
-UpdateAdded new icons: apps 48
+Added new icons: apps 48
 
 GTK Theme
 ---------
