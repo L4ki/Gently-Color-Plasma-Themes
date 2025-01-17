@@ -42,18 +42,18 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 10.01.2025.
+Changelogs: 17.01.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: actions 22
+Added new icons:apps 48
 
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: styles
 
 Plasma Theme
 ------------
