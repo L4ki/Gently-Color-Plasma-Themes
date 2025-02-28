@@ -53,7 +53,7 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-3.0
 
 Plasma Theme
 ------------
