@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 07.03.2025.
+Changelogs: 14.03.2025.
 ----------------------
 
 Icons
@@ -53,7 +53,7 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: styles
+Update: main.rc
 
 Plasma Theme
 ------------
