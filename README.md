@@ -42,18 +42,18 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 04.04.2025.
+Changelogs: 11.04.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: apps 22
+Added new icons: actions 32
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: gtk-4.0
 
 Plasma Theme
 ------------
