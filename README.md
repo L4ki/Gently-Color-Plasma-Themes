@@ -42,18 +42,18 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 11.04.2025.
+Changelogs: 18.04.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: actions 32
+Update icons: categories 22
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
