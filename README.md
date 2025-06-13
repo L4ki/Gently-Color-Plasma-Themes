@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 06.06.2025.
+Changelogs: 13.06.2025.
 ----------------------
 
 Icons
@@ -53,14 +53,12 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
 
-Update widget: menubaritem.svg
-
-
+Update: metadata.desktop
 
 
 
