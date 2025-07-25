@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-Changelogs: 18.07.2025.
+Changelogs: 25.07.2025.
 ----------------------
 
 Icons
@@ -53,7 +53,7 @@ Added new icons: apps 48
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: hacks-dark.rc
 
 Plasma Theme
 ------------
