@@ -38,6 +38,10 @@ Screenshots:
 
 ![Screenshot_20221106_115108](https://user-images.githubusercontent.com/45247573/200540360-5a080e00-5a7e-4994-ab4d-30b2e0883657.png)
 
+![Gently-Nebula Plasma Logo](https://github.com/user-attachments/assets/512d868c-e46a-4985-bc5a-c441081c7c0e)
+
+![Gently-Nebula No Logo](https://github.com/user-attachments/assets/64af1b5a-8681-4826-8d76-ab6ccf9ccaae)
+
 ____________________________________________________________________________________________________________________________________
 
 
