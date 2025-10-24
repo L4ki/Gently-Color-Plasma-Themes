@@ -1,32 +1,25 @@
 # Text/base colors
-gtk-color-scheme = "text_color:#eceff4\nbase_color:#2e3440"
+gtk-color-scheme = "text_color:#fcfcfc\nbase_color:#252342"
 # Foreground/background colors
-gtk-color-scheme = "fg_color:#eceff4\nbg_color:#232932"
+gtk-color-scheme = "fg_color:#fcfcfc\nbg_color:#1f1d36"
 # Selection colors
-gtk-color-scheme = "selected_fg_color:#eceff4\nselected_bg_color:#545f75"
+gtk-color-scheme = "selected_fg_color:#fcfcfc\nselected_bg_color:#656595"
 # Tooltip colors
-gtk-color-scheme = "tooltip_fg_color:#eceff4\ntooltip_bg_color:#2e3440"
+gtk-color-scheme = "tooltip_fg_color:#fcfcfc\ntooltip_bg_color:#252342"
 # Window colors
-gtk-color-scheme = "wm_color:#31363d\nunfocused_wm_color:#31363d"
+gtk-color-scheme = "wm_color:#16132c\nunfocused_wm_color:#16132c"
 # Panel colors
-gtk-color-scheme = "panel_bg_color:#282D38\npanel_fg_color:#eceff4"
+gtk-color-scheme = "panel_bg_color:#16132c\npanel_fg_color:#fcfcfc"
 # Dark Theme - Text/base colors
-gtk-color-scheme = "dark_text_color:#eceff4\ndark_base_color:#2e3440"
+gtk-color-scheme = "dark_text_color:#fcfcfc\ndark_base_color:#1f1d36"
 # Dark Theme - Foreground/background colors
-gtk-color-scheme = "dark_fg_color:#eceff4\ndark_bg_color:#3b4252"
-gtk-color-scheme = "sidebar_bg:#2e3440"
-gtk-color-scheme = "sidebar_fg:#eceff4"
+gtk-color-scheme = "dark_fg_color:#fcfcfc\ndark_bg_color:#1f1d36"
+gtk-color-scheme = "sidebar_bg:#1f1d36"
+gtk-color-scheme = "sidebar_fg:#fcfcfc"
 
-# Set GTK settings
 gtk-auto-mnemonics = 1
 gtk-primary-button-warps-slider = 1
-
-# And hand over the control to the theme files
 include "main.rc"
-include "apps.rc"
-include "hacks.rc"
-include "hacks-dark.rc"
-
 
 # App stylings
 include "apps/chrome.rc"
@@ -35,4 +28,3 @@ include "apps/libreoffice.rc"
 include "apps/terminal.rc"
 include "apps/thunar.rc"
 include "apps/xfce.rc"
-
