@@ -44,18 +44,18 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelogs: 31.10.2025.
+Changelogs: 07.11.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: actions 22
+Added new icons: apps 22
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
 
 Plasma Theme
 ------------
