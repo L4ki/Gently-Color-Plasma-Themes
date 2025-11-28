@@ -44,18 +44,18 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelogs: 21.11.2025.
+Changelogs: 28.11.2025.
 ----------------------
 
 Icons
 -----
 
-Added new icons: apps 32
+Update icons: status 24
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
