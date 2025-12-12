@@ -44,18 +44,18 @@ Screenshots:
 
 ____________________________________________________________________________________________________________________________________
 
-Changelogs: 05.12.2025.
+Changelogs: 12.12.2025.
 ----------------------
 
 Icons
 -----
 
-Update icons: status 22
+Update icons: status 32
 
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: styles
 
 Plasma Theme
 ------------
